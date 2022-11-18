@@ -1,1 +1,1 @@
-print(eval(input('put ')))
+print(eval(input('put ')))keygen
